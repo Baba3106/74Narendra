@@ -1,0 +1,1 @@
+print("I'm studying in fintech sem5")
