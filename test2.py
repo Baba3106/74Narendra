@@ -1,0 +1,1 @@
+print("Fintch sem-5")
